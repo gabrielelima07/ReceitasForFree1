@@ -9,7 +9,8 @@ export default function TelaInicial() {
          
       </Text>
     </View>
-   
+   )
+
 
 }
 
